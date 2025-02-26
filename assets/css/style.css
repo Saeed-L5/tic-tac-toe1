@@ -48,6 +48,13 @@ div .row {
     margin: 0;
     
 }
+div .col {
+    border-radius: 20px;
+    border: 2px solid ;
+    padding: 20px;
+    margin: 5px;
+   
+}
 .footer {
     position: absolute;
     gap: 10px;
