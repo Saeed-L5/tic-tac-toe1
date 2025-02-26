@@ -26,8 +26,20 @@ nav {
 .navbar-toggler {
     background-color: aliceblue;
 }
+.home-container {
+    border-radius: 10px;
+}
+.board {
+    display: grid;
+}
+.cell {
+    display: flex;
+    width: 80px;
+    height: 80px;
+}
 .footer {
     position: absolute;
+    gap: 10px;
    bottom: 0;
    width: 100%;
    padding: 6px;
