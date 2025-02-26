@@ -1,0 +1,25 @@
+/*General styles*/
+body {
+    background:#2c3e50 ; /*Background color*/
+    color: azure;
+    font-family: 'Arial',  sans-serif;
+    min-height: 100vh;
+    font-size: 2rem;
+}
+
+nav {
+    padding-top: 20px;
+    margin-top: 10px;
+    
+}
+
+.navbar-brand {
+    font-size: 24px;
+    margin-left: 10px;
+    color: aliceblue;
+}
+.nav-link  {
+    padding: 20px;
+    font-size: 20px;
+    color: aliceblue;
+}
