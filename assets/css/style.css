@@ -9,7 +9,7 @@ body {
 
 nav {
     padding-top: 20px;
-    margin-top: 10px;
+    
     
 }
 
@@ -22,6 +22,9 @@ nav {
     padding: 20px;
     font-size: 20px;
     color: aliceblue;
+}
+.navbar-toggler {
+    background-color: aliceblue;
 }
 .footer {
     position: absolute;
