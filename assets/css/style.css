@@ -26,16 +26,27 @@ nav {
 .navbar-toggler {
     background-color: aliceblue;
 }
-.home-container {
+/*.home-container {
     border-radius: 10px;
 }
 .board {
     display: grid;
 }
 .cell {
+    background-color: #ecf0f1;
     display: flex;
     width: 80px;
     height: 80px;
+    justify-content: center;
+    align-items: center;
+}*/
+div .row {
+    min-width: 250px;
+   min-height:  250px;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    
 }
 .footer {
     position: absolute;
